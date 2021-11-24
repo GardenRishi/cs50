@@ -1,0 +1,13 @@
+How do you know?: As this one was the only one remaining.
+
+sort2 uses: Merge Sort
+
+How do you know?: Using the random number text files, I tested the times to see that Sort 2 was doing well for the most part. With numbers generated randomly, selection sort and bubble sort take 
+a longer time than merge sort, which leads me to believe that sort1 uses Merge Sort 
+
+sort3 uses: Selection Sort
+
+How do you know?: When testing the reversed files, the selection sort would be quicker and more efficient due to the process of the algorithim trying to find the lowest value and replacing it 
+with the first. Since the lowest value would be at the end and the greatest value would be at the beginning, meanign the 2 values would be at the correct spot with only 1 step. With bubble sort, the values at the beginning would not stop and continue to go 
+to the end, putting them in the right spot. ONly 1 value would be at the right spot in 1 step, causing the bubble sort to have the lower time. Since sort 3 had the lower time, I am thinking that sort 3 uses 
+selection sort. 
